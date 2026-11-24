@@ -1,4 +1,4 @@
-AUTOCLICKER - GERADOR DE EXE PARA WINDOWS
+AUTOCLICKER
 
 1. Extraia o ZIP para uma pasta.
 2. Instale Python 3 para Windows, se ainda nao tiver.
