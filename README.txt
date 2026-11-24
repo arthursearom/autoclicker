@@ -7,9 +7,9 @@ AUTOCLICKER - GERADOR DE EXE PARA WINDOWS
 5. O executavel sera criado em dist\AutoClicker.exe.
 
 ATALHOS:
-A = iniciar/parar autoclicker
-B = encerrar aplicativo
+/ = iniciar/parar autoclicker
+- = encerrar aplicativo
 
-Nao ha botoes de iniciar/parar na interface. Abra o app e use a tecla A.
+Nao ha botoes de iniciar/parar na interface. Abra o app e use a tecla /.
 A interface permite escolher o botao do mouse e ajustar o intervalo.
 O intervalo minimo configurado e 0.001 segundo (1 ms).
